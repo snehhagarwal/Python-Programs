@@ -1,0 +1,6 @@
+x=int(input("the number of days taken by person A:"))
+y=int(input("the number of days taken by person B:"))
+z=int(input("the number of days taken by person C:"))
+print("number of days if they work alone:",x,y,z)
+t=(x*y*z)/(x*y+y*z+x*z)
+print("number of days if all A,B and C work together:",t)
