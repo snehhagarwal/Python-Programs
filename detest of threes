@@ -1,4 +1,6 @@
-''' HP:(Hewlett-Packard) is a leading American multinational computer system manufacturer in the world.
+''' 
+Code-->
+HP:(Hewlett-Packard) is a leading American multinational computer system manufacturer in the world.
 
 The company Hewlett-Packard doesn't like integers that are divisible by 3 or end with the digit 3 in their decimal representation. Integers that meet both conditions are disliked by Hewlett-Packard, too.
 
