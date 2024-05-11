@@ -1,3 +1,4 @@
+#Code-->
 n=int(input("the number is:"))
 d=0
 r=n%10
