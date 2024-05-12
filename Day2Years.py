@@ -7,7 +7,8 @@ Number of days : 1329
 Expected Output :
 Years: 3
 Weeks: 33
-Days: 3 '''
+Days: 3 
+Code '''
 d=int(input())
 y=d//365
 w=(d-y*365)//7
