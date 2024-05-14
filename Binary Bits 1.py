@@ -4,7 +4,8 @@ Bitwise AND operator & The output of bitwise AND is 1 if the corresponding bits 
 
 Bitwise OR operator | The output of bitwise OR is 1 if at least one corresponding bit of two operands is 1. It is denoted by |.
 
-Bitwise XOR (exclusive OR) operator ^ The result of bitwise XOR operator is 1 if the corresponding bits of two operands are opposite. '''
+Bitwise XOR (exclusive OR) operator ^ The result of bitwise XOR operator is 1 if the corresponding bits of two operands are opposite. 
+Code '''
 n1, n2 = map(int, input().split())
 k = int(input())
 
