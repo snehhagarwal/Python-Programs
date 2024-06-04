@@ -1,5 +1,4 @@
 ''' Write a Python program to count the combinations for non-consecutive 1's numbers patterns in a binary number string where the width of the binary given by the user.
-
 for exmample 
 n = 4
 all binary string combinations at width 4
