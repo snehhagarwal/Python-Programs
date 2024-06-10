@@ -22,7 +22,6 @@ all binary string combinations at width 4
 here non-consecutive 1's (consider char 0 is social distance) patterns are:
 0001, 0010, 0100, 0101, 1000, 1001, 1010
 total count of these patterns is 7
-
 Output at width 4 is 7 '''
 n=int(input())
 c=0
