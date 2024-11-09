@@ -1,2 +1,2 @@
-name=input("enter your name")
-print("my name is " , name)
+name=input("enter your native language")
+print("my native language is " , name)
