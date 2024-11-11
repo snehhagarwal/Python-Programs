@@ -1,4 +1,3 @@
-# Function to print binary number using recursion
 def convertToBinary(n):
    if n > 1:
        convertToBinary(n//2)
@@ -7,4 +6,4 @@ def convertToBinary(n):
 num=int(input("enter the number: ")
 convertToBinary(num)
 print()
-        
+
