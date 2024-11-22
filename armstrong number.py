@@ -1,6 +1,4 @@
 #Program to find the series of all three digits Armstrong numbers
-
-
 import math
 for i in range(100,1000):
     s=0
