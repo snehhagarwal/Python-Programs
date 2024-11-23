@@ -1,5 +1,4 @@
 import random 
-
 def gen_code(): 
 	set_code = [] 
 	
